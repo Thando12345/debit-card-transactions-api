@@ -26,7 +26,7 @@ The project consists of two main challenges:
 ### Setup Steps
 1. Clone the repository
    ```
-   git clone https://github.com/your-username/debit-card-api.git
+   git clone https://github.com/Thando12345/debit-card-api.git
    cd debit-card-api
    ```
 
